@@ -1,0 +1,16 @@
+15
+1,book1,author1,PAPER,Book description test.
+2,book2,author2,PAPER,Book description test2.
+3,book5,author1,PAPER,Without description
+4,book4,author2,DIGITAL,Without description
+5,book6,author3,PAPER,Without description
+6,book7,author3,PAPER,Without description
+7,book7,author2,PAPER,Without description
+8,book8,author1,PAPER,Without description
+9,book9,author2,PAPER,Without description
+10,book10,author3,PAPER,Without description
+11,book11,author2,PAPER,Without description
+12,book12,author1,PAPER,Without description
+13,Test Book,Author,DIGITAL,Without description
+14,Test book,Author,DIGITAL,Without description
+15,Test Book,Author,DIGITAL,Without description
